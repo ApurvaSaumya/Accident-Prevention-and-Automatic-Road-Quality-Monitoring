@@ -2,7 +2,7 @@
 
 Working - The project has 3 components:
 
-1) Hardware: This is the arduino-based pothole detector, which is fittend on to the bottom of the vehicle. It primarily involves the use of the ultrasonic sensors and the GPS module. 
+1) Hardware: This is the arduino-based pothole detector, which is fitted on to the bottom of the vehicle. It primarily involves the use of the ultrasonic sensors and the GPS module. 
 
 ![Hardware component](https://github.com/ApurvaSaumya/Accident-Prevention-and-Automatic-Road-Quality-Monitoring/blob/master/hw3.jpg?raw=true)
 ![Fitting of the hardware](https://github.com/ApurvaSaumya/Accident-Prevention-and-Automatic-Road-Quality-Monitoring/blob/master/car.PNG?raw=true)
